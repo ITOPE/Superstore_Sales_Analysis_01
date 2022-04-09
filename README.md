@@ -22,7 +22,7 @@ https://raw.githack.com/ITOPE/Superstore_Sales_Analysis_01/main/Superstore1.pbix
 
 # Procedure
 
-Data was imported from CSV file using the get data menu. 
+Data was imported from excel using the get data menu. 
 In the power query editor in Power BI, we checked our dataset for null values, duplicates and outliers. We don’t have duplicates and any obvious outliers, 
 but we have null values in the postal code column which we left since we won't be using the column.
 We created our sales metrics using the following DAX formulas:
