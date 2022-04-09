@@ -4,8 +4,9 @@ A Superstore sales dataset which spanned over the period of four years (2010 to 
 The sales overview, profit and trends in sales cohort was analyzed, so as to answer the following questions and in turn derive actionable business insights.
 
 ---
-- What is the revenue generating power of our products?
-- How is our business fairing in countries and regions of the world?
+- Which product segments are generating high revenue? and how can we maximize them?
+- Which product segment are generating low revenue? and how can we make improvement?
+- From which country are we generating most revevue? 
 - What is our year over year growth rate? (Is the business growing?)
 - Are we maximizing our product prices to generate profit?
 - Does discount affect our sales?
@@ -45,6 +46,12 @@ We also created a calender table using DAX expression "calender = CALENDARAUTO()
 the superstoresalestraining table.
 
 We then went ahead to create our visuals.
+
+##Images
+![Screenshot (13)](https://user-images.githubusercontent.com/84106015/162594055-1c9d694e-4ac4-47d0-ad0d-9d7c38f41512.png)
+![Screenshot (11)](https://user-images.githubusercontent.com/84106015/162594058-2b139062-622b-40ea-9edd-8b8055e9a703.png)
+![Screenshot (12)](https://user-images.githubusercontent.com/84106015/162594063-27a62663-86f6-4c63-bf08-faf43eaeade3.png)
+
 
 ## Conclusion and Recommendation
 
