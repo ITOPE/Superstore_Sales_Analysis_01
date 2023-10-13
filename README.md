@@ -1,4 +1,4 @@
-# Superstore_Sales_Analysis_01
+# Sales Analysis
 
 ![Screenshot (388)](https://user-images.githubusercontent.com/84106015/218905224-47e1bce3-cdac-476b-b9e2-4940bcf9e0cd.png)
 
