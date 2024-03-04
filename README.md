@@ -22,7 +22,7 @@ The analysis provided answers to the following questions: .
 - Which country generated the highest sales? 
 - Which country generated the lowest sales?
 - What is our year over year growth rate? (Is the business growing?)
-- What is our profitabilitu status of the company?
+- What is the profitability status of the company?
 - Which consumer segment generated the higbest revenue?
 - Who are our top customers?
 - What is the effect of price dicounting on sales performance?
